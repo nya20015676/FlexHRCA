@@ -12,3 +12,5 @@ This paper investigates the optimisation of task assignment and scheduling in a 
 - `HnRnTest/`: Multi-human and multi-robot test (Chapter 5.3.1).
 - `comparison/`: CSP, TFN, SVTN comparison test (Chapter 5.3.2 and 5.3.3).
 
+## Reference Code
+This codebase partially references the cls1277/gantt-for-JSP-python project. We acknowledge and appreciate the insights and implementations provided by this project.
