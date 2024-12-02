@@ -12,4 +12,4 @@ This repository contains the data and code used in paper titled "Flexible Task A
 - `comparison/`: CSP, TFN, SVTN comparison test (Chapter 5.3.2 and 5.3.3).
 
 ## Reference Code
-This codebase partially references the cls1277/gantt-for-JSP-python project. We acknowledge and appreciate the insights and implementations provided by this project.
+This codebase partially references the cls1277/gantt-for-JSP-python and ai4co/rl4co project. We acknowledge and appreciate the insights and implementations provided by this project.
